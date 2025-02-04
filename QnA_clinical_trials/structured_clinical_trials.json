@@ -1,0 +1,27 @@
+[
+    {
+        "trial_id": "NCT001",
+        "title": "Hypertension Treatment Study",
+        "summary": "This study evaluates the effect of Drug X on hypertension in 500 patients aged 40-65. The trial lasted 12 months, and results showed a 15% reduction in blood pressure. Some adverse effects were reported."
+    },
+    {
+        "trial_id": "NCT002",
+        "title": "Diabetes Drug Study",
+        "summary": "This study assesses the impact of Drug Y on diabetes patients. 600 participants were monitored over 9 months, showing an average glucose level reduction of 20%. Mild nausea was reported in some cases."
+    },
+    {
+        "trial_id": "NCT003",
+        "title": "Cancer Immunotherapy Trial",
+        "summary": "This phase 2 clinical trial examines the efficacy of an experimental immunotherapy for lung cancer. 300 patients were treated, and tumor shrinkage was observed in 45% of participants. Severe immune-related adverse events occurred in 10% of cases."
+    },
+    {
+        "trial_id": "NCT004",
+        "title": "Alzheimer’s Disease Drug Study",
+        "summary": "A new drug aimed at slowing cognitive decline in early-stage Alzheimer’s patients was tested in a double-blind study with 450 participants. Results showed a cognitive function improvement of 12% over placebo."
+    },
+    {
+        "trial_id": "NCT005",
+        "title": "COVID-19 Vaccine Booster Trial",
+        "summary": "This study evaluates the safety and efficacy of a booster dose for an existing COVID-19 vaccine. The trial included 2,000 participants and found a 95% increase in antibody response with mild to moderate side effects."
+    }
+]
